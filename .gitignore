@@ -11,6 +11,7 @@ voc/
 heatmap/
 runs/
 coco/
+trainpys/
 testpython.py
 yolov8_headmap.py
 coco2yolo.py
